@@ -1,0 +1,14 @@
+# Blender MTL File: 'kubura1.blend'
+# Material Count: 1
+
+newmtl firelock
+Ns 225.000000
+Ka 0.745455 0.745455 0.745455
+Kd 0.800000 0.770213 0.792491
+Ks 0.272727 0.272727 0.272727
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump E:\\Projects\\Projects\\modeli\\3D Assets\\Items\\Weapons\\Guns\\Kubura1\\material\\Normal\\firelock_n.png
+map_Ns E:\\Projects\\Projects\\modeli\\3D Assets\\Items\\Weapons\\Guns\\Kubura1\\material\\roughness\\firelock_r.png
